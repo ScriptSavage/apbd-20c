@@ -13,7 +13,14 @@ static int GetMaxValue(int[]tab)
     }
 
     return max;
-} 
+}
 
+
+int a = 10;
+int b = 10;
+
+Console.WriteLine(a);
+Console.WriteLine(b);
+Console.WriteLine(b);
 
 Console.WriteLine(GetMaxValue(tab));
