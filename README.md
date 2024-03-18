@@ -1,3 +1,3 @@
 # apbd-20c
 
-opis próba
+w zadaniu 5 konflik wywołany na gałęzi feature-max
