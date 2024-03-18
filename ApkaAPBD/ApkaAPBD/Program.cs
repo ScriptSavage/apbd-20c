@@ -1,7 +1,7 @@
 ﻿
 int[] tab = { 1, 2, 4, 3, 2, 4, 451, 1 };
 
-static int GetAverage(int[]tab)
+static int GetMaxValue(int[]tab)
 {
     int max = 0;
     for (int i = 0; i < tab.Length; i++)
@@ -16,4 +16,4 @@ static int GetAverage(int[]tab)
 } 
 
 
-Console.WriteLine(GetAverage(tab));
+Console.WriteLine(GetMaxValue(tab));
