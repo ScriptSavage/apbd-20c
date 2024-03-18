@@ -15,5 +15,6 @@ static int GetMaxValue(int[]tab)
     return max;
 } 
 
+Console.WriteLine("Feature-NEW");
 
 Console.WriteLine(GetMaxValue(tab));
