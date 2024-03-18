@@ -13,7 +13,11 @@ static int GetMaxValue(int[]tab)
     }
 
     return max;
-} 
+}
+
+string name = "Maksymilian";
+
+Console.WriteLine(name);
 
 
 Console.WriteLine(GetMaxValue(tab));
